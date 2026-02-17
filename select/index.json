@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "No Association",
+  "base_artist": "Silverchair",
+  "createdAt": "2026-02-17T11:07:31.310073Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "No Association",
+      "artist": "Silverchair",
+      "has_synced": true,
+      "path": "select/01_No_Association_Silverchair.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No Association (Album Version)",
+      "artist": "Silverchair",
+      "has_synced": true,
+      "path": "select/02_No_Association_(Album_Version)_Silverchair.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Association",
+      "artist": "Silverchair",
+      "has_synced": true,
+      "path": "select/03_No_Association_Silverchair.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "no association",
+      "artist": "silverchair",
+      "has_synced": true,
+      "path": "select/04_no_association_silverchair.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "05 - No Association",
+      "artist": "Silverchair",
+      "has_synced": true,
+      "path": "select/05_05_-_No_Association_Silverchair.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No Association",
+      "artist": "Silverchair",
+      "has_synced": true,
+      "path": "select/06_No_Association_Silverchair.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No Association",
+      "artist": "Silverchair",
+      "has_synced": false,
+      "path": "select/pl_01_No_Association_Silverchair.txt"
+    }
+  ]
+}
